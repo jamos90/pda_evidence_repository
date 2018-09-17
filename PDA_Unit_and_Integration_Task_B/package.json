@@ -1,0 +1,14 @@
+{
+  "name": "pda_unit_and_integration_task_b",
+  "version": "1.0.0",
+  "description": "This activity relates to the following Outcome and Knowledge/Skills: |----------------------------------------------------------------- |Outcome 4: Test programs using a range of approaches |Carry out unit testing |Carry out integration testing |Check the software meets specified requirements and carry out User Acceptance Testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
